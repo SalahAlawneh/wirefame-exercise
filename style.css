@@ -1,0 +1,80 @@
+main {
+    height: 1285px;
+    width: 960px;
+    margin: auto;
+
+}
+header {
+    height: 100px;
+    background-color: gray;
+    width: 1500px;;
+    margin-bottom: 30px;
+}
+
+header img {
+        float: left;
+        margin: 15px 0px 15px -85px;
+     }
+    
+
+header li {
+    display: inline-block;
+    margin: 43px 0px 150px 63px;
+    font-size: larger;
+    color: lightgray;
+}
+
+nav {
+    width: 960px;
+    margin: auto;
+}
+
+footer{
+    height: 140px;
+    width: 1500px;
+    background-color: gray;
+    margin-top: 30px;
+}
+
+#threePicturesInLineSection {
+margin-top: 30px;
+margin-bottom: 30px;
+}
+
+#middlePicture {
+    margin-left: 24px;
+    margin-right: 25px;
+}
+
+#theLiftImg{
+float: left;
+margin-right: 30px;
+}
+
+div {
+    height: 400px;
+}
+
+p {
+    overflow: scroll;
+    height: 300px;
+}
+h1 {
+    font-weight: bolder;
+    margin-bottom: 30px;
+}
+
+button {
+    
+    height: 45px;
+    width: 235px;
+    margin-top: 9px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: red;
+    transition: 350ms;
+}
